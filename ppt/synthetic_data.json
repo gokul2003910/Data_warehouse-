@@ -1,0 +1,174 @@
+{
+    "Blockchain in Finance": {
+        "Introduction": {
+            "slide-title": {
+                "title": "Blockchain in Finance: Revolutionizing the Financial Landscape",
+                "subtitle": "John Doe",
+                "image": "https://picsum.photos/1280/720"
+            },
+            "double-column-text": {
+                "title": "Blockchain Technology's Disruptive Impact",
+                "first_column": "Decentralization and Transparency",
+                "second_column": "Security and Efficiency Gains"
+            },
+            "text-and-image": {
+                "title": "Blockchain's Role in Modern Finance",
+                "first_column": "Transforming Payment Systems",
+                "image": "https://picsum.photos/1280/720"
+            },
+            "image-and-text": {
+                "title": "Real-World Applications",
+                "image": "https://picsum.photos/1280/720",
+                "first_column": "Cross-Border Transactions\nSupply Chain Management"
+            },
+            "image-quote": {
+                "title": "Quote on Blockchain's Future",
+                "image": "https://picsum.photos/1280/720",
+                "quote": "Blockchain will revolutionize finance in ways we cannot yet imagine."
+            },
+            "qa": {
+                "title": "Questions and Discussion"
+            },
+            "thankyou": {
+                "title": "Thank You",
+                "wide_text": "For More Information, Please Visit Our Website."
+            }
+        },
+        "Benefits of Blockchain in Finance": {
+            "slide-title": {
+                "title": "Unlocking the Benefits of Blockchain in Finance",
+                "subtitle": "Jane Doe",
+                "image": "https://picsum.photos/1280/720"
+            },
+            "double-column-text": {
+                "title": "Enhanced Security",
+                "first_column": "Data Encryption and Fraud Prevention",
+                "second_column": "Reduced Counterparty Risk"
+            },
+            "text-and-image": {
+                "title": "Cost Reduction and Efficiency Gains",
+                "first_column": "Streamlined Processes and Automation",
+                "image": "https://picsum.photos/1280/720"
+            },
+            "image-and-text": {
+                "title": "Increased Transparency and Traceability",
+                "image": "https://picsum.photos/1280/720",
+                "first_column": "Improved Auditability and Regulatory Compliance"
+            },
+            "image-quote": {
+                "title": "Quote on Blockchain's Impact",
+                "image": "https://picsum.photos/1280/720",
+                "quote": "Blockchain is the key to unlocking the true potential of the financial industry."
+            },
+            "qa": {
+                "title": "Questions and Discussion"
+            },
+            "thankyou": {
+                "title": "Thank You",
+                "wide_text": "For More Information, Please Visit Our Website."
+            }
+        },
+        "Challenges of Blockchain Adoption": {
+            "slide-title": {
+                "title": "Overcoming the Challenges of Blockchain Adoption",
+                "subtitle": "John Doe",
+                "image": "https://picsum.photos/1280/720"
+            },
+            "double-column-text": {
+                "title": "Scalability and Performance Issues",
+                "first_column": "Current Limitations",
+                "second_column": "Ongoing Research and Development"
+            },
+            "text-and-image": {
+                "title": "Regulatory and Legal Uncertainties",
+                "first_column": "Navigating Evolving Regulatory Landscapes",
+                "image": "https://picsum.photos/1280/720"
+            },
+            "image-and-text": {
+                "title": "Cost of Implementation",
+                "image": "https://picsum.photos/1280/720",
+                "first_column": "Infrastructure and Ongoing Maintenance"
+            },
+            "image-quote": {
+                "title": "Quote on Overcoming Blockchain Challenges",
+                "image": "https://picsum.photos/1280/720",
+                "quote": "Collaboration and innovation are essential to overcoming blockchain's challenges."
+            },
+            "qa": {
+                "title": "Questions and Discussion"
+            },
+            "thankyou": {
+                "title": "Thank You",
+                "wide_text": "For More Information, Please Visit Our Website."
+            }
+        },
+        "Blockchain's Future in Finance": {
+            "slide-title": {
+                "title": "The Future of Blockchain in Finance: Innovations and Opportunities",
+                "subtitle": "Jane Doe",
+                "image": "https://picsum.photos/1280/720"
+            },
+            "double-column-text": {
+                "title": "Decentralized Finance (DeFi)",
+                "first_column": "Open and Permissionless Financial Services",
+                "second_column": "Redefining Lending and Borrowing"
+            },
+            "text-and-image": {
+                "title": "Tokenization of Assets",
+                "first_column": "Digitizing Real-World Assets",
+                "image": "https://picsum.photos/1280/720"
+            },
+            "image-and-text": {
+                "title": "Central Bank Digital Currencies (CBDCs)",
+                "image": "https://picsum.photos/1280/720",
+                "first_column": "Digital Forms of Fiat Currencies"
+            },
+            "image-quote": {
+                "title": "Quote on Blockchain's Future Impact",
+                "image": "https://picsum.photos/1280/720",
+                "quote": "Blockchain has the potential to shape the future of finance in exciting and transformative ways."
+            },
+            "qa": {
+                "title": "Questions and Discussion"
+            },
+            "thankyou": {
+                "title": "Thank You",
+                "wide_text": "For More Information, Please Visit Our Website."
+            }
+        },
+        "Conclusion": {
+            "slide-title": {
+                "title": "Conclusion: Blockchain's Role in the Evolving Financial Landscape",
+                "subtitle": "John Doe",
+                "image": "https://picsum.photos/1280/720"
+            },
+            "double-column-text": {
+                "title": "Key Takeaways",
+                "first_column": "Blockchain's Transformative Power",
+                "second_column": "Challenges and Opportunities Ahead"
+            },
+            "text-and-image": {
+                "title": "Call to Action",
+                "first_column": "Embrace Innovation and Collaboration",
+                "image": "https://picsum.photos/1280/720"
+            },
+            "image-and-text": {
+                "title": "Stay Informed",
+                "image": "https://picsum.photos/1280/720",
+                "first_column": "Follow Industry Developments"
+            },
+            "image-quote": {
+                "title": "Quote on Blockchain's Long-Term Impact",
+                "image": "https://picsum.photos/1280/720",
+                "quote": "Blockchain is not just a technology; it's a catalyst for change in the financial industry."
+            },
+            "qa": {
+                "title": "Questions and Discussion"
+            },
+            "thankyou": {
+                "title": "Thank You",
+                "wide_text": "For More Information, Please Visit Our Website ."
+            }
+        }
+    }
+}
